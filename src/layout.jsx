@@ -5,7 +5,7 @@ export default function Layout() {
     return (
         <nav>
           <ul>
-          <img src="./src/logo.png" alt="Naomi's Logo" width="130" height="130" />
+          <img src="/logo.png" alt="Naomi's Logo" width="130" height="130" />
             <br />
             <br />
             <li><Link to="/"> Home</Link></li> 
